@@ -1,0 +1,10 @@
+project_name: 'Project name'
+render_toc_on_docs_layout: true
+search: true
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "docs"
